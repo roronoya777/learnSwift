@@ -1,2 +1,3 @@
 # learnSwift
-learning cs193p
+Learning cs193p
+Day 1
